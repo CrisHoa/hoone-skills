@@ -18,6 +18,7 @@ Skill cho AI (Claude Code, Antigravity) dùng cùng bộ **MCP - Revit Hoone** (
 | `revit-to-mau-kiem-tra` | Tô màu kiểm tra theo tham số (Color Splash), cô lập, reset màu, xóa an toàn |
 | `revit-thong-ke-khoi-luong` | Bóc tách khối lượng vật liệu (QTO m³/m²), thống kê mô hình & xuất dữ liệu Room |
 | `revit-loc-phan-tu-thong-minh` | Bộ lọc phần tử đa điều kiện trong View hiện hành / toàn dự án (AI Filter) |
+| `boc-tach-opentakeoff` | Bóc tách khối lượng bản vẽ PDF bằng OpenTakeoff MCP (70 tools) & đối chiếu Revit |
 
 Cài / cập nhật: bộ cài `MCP - Revit Hoone` đọc `DANH SACH SKILL.json` và tải thư mục `skills/` của kho này
 (`CAP NHAT SKILL.bat`). `{{RMCP}}`, `{{PY}}` trong SKILL.md được bộ cài thay bằng đường dẫn trên từng máy.
