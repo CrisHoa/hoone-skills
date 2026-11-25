@@ -10,6 +10,9 @@ Skill cho AI (Claude Code, Antigravity) dùng cùng bộ **MCP - Revit Hoone** (
 | `phan-tich-cao-do` | Phân tích cao độ, luôn tuân thủ cao độ bản vẽ |
 | `phan-tich-mat-bang` | Mặt bằng / bình đồ → X,Y từng cấu kiện, ghép XYZ |
 | `phan-tich-trac-doc` | Trắc dọc: cao độ theo cọc / hố ga, tự nhiên – thiết kế, độ dốc |
+| `tao-family-adaptive` | Tạo & rải Adaptive Component Family (.rfa) bám tuyến cong 3D trong Revit |
+| `polyline-3d-cao-do` | Đọc, rải mẫu & nội suy cao độ Z từ Polyline 3D / Spline 3D (DWG/DXF) |
+| `suy-luan-cao-do-tu-trac-doc` | Ghép mặt bằng tim tuyến 2D + trắc dọc (gồm cong đứng Parabol) → tuyến 3D XYZ |
 
 Cài / cập nhật: bộ cài `MCP - Revit Hoone` đọc `DANH SACH SKILL.json` và tải thư mục `skills/` của kho này
 (`CAP NHAT SKILL.bat`). `{{RMCP}}`, `{{PY}}` trong SKILL.md được bộ cài thay bằng đường dẫn trên từng máy.
