@@ -6,6 +6,7 @@ Skill cho AI (Claude Code, Antigravity) dùng cùng bộ **MCP - Revit Hoone** (
 |---|---|
 | `revit-bim-mcp` | Điều khiển Revit qua MCP `revit`, quy trình đối chiếu bản vẽ ↔ mô hình |
 | `doc-ban-ve-cad` | Đọc / phân tích bản vẽ DWG, DXF (chỉ đọc, giải mã TCVN3) |
+| `doc-ban-ve-pdf` | Đọc / phân tích bản vẽ kỹ thuật & tài liệu PDF (chỉ đọc, trích bảng, xuất ảnh phóng to) |
 | `phan-tich-cao-do` | Phân tích cao độ, luôn tuân thủ cao độ bản vẽ |
 | `phan-tich-mat-bang` | Mặt bằng / bình đồ → X,Y từng cấu kiện, ghép XYZ |
 | `phan-tich-trac-doc` | Trắc dọc: cao độ theo cọc / hố ga, tự nhiên – thiết kế, độ dốc |
